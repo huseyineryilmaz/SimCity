@@ -1,0 +1,10 @@
+<TextureAtlas imagePath="sprites.png">
+	<SubTexture name="5.png" x="0" y="775" width="128" height="150"/>
+	<SubTexture name="Hospital.png" x="0" y="144" width="192" height="161"/>
+	<SubTexture name="Police.png" x="0" y="0" width="193" height="142"/>
+	<SubTexture name="bd1.png" x="0" y="599" width="191" height="174"/>
+	<SubTexture name="Electricity.png" x="0" y="437" width="192" height="160"/>
+	<SubTexture name="fire_station.png" x="0" y="307" width="192" height="128"/>
+	<SubTexture name="tile.png" x="0" y="927" width="64" height="36"/>
+	<SubTexture name="tile2.png" x="0" y="965" width="64" height="36"/>
+</TextureAtlas>

@@ -1,0 +1,14 @@
+<Words>
+    
+    <String id = "1"
+        word = "Play"/>
+    
+    <String id = "2" 
+        word = "Settings"/>
+    
+    <String id = "3" 
+        word = "Quit"/>
+        
+    <String id = "4" 
+        word = "Player1"/>
+</Words>
